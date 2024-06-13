@@ -7,10 +7,14 @@ I talk to computers in Python, TypeScript and C++.
 
 ## Toolbox : 
 * React
+* React Native
+* Python
 * TailwindCSS
 * Frappe Framework
 * OpenCV.
 
+
+  
 ![image](https://c4.wallpaperflare.com/wallpaper/851/501/292/minimalism-programming-code-wallpaper-preview.jpg)
 
 
